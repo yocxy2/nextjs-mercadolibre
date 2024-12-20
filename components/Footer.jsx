@@ -8,7 +8,7 @@ function Footer() {
         <div className="flex justify-center items-center p-4 max-w-[1200px] mx-auto">
           <img
             className="w-10"
-            src="https://http2.mlstatic.com/frontend-assets/ui-navigation/5.18.5/mercadolibre/logo__small@2x.png"
+            src="https://files.oaiusercontent.com/file-6Dr1axnAskqdfkscYvf7DC?se=2024-12-20T20%3A46%3A58Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3fcd32d1-acc1-42a8-a75e-a994fe787832.webp&sig=R9AHcWidDDVZqqpXVvw/%2BhKl7ADlIkKyktmDdF6gfwM%3D"
             alt=""
           />
           <p className="ml-4">¡Comprá y vendé con la app!</p>
@@ -51,7 +51,9 @@ function Footer() {
           © 1999-2022 MercadoLibre S.R.L.
         </p>
         <p className="text-xs text-gray-400">
-          Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
+          Al navegar en este sitio aceptás las{" "}
+          <span className="text-blue-600 cursor-pointer">condiciones de uso</span>
+          .
         </p>
       </div>
     </div>

@@ -17,7 +17,7 @@ function login() {
         <Link href="/">
           <img
             className="w-11"
-            src="https://http2.mlstatic.com/frontend-assets/ui-navigation/5.18.5/mercadolibre/logo__small@2x.png"
+            src="https://files.oaiusercontent.com/file-6Dr1axnAskqdfkscYvf7DC?se=2024-12-20T20%3A46%3A58Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3fcd32d1-acc1-42a8-a75e-a994fe787832.webp&sig=R9AHcWidDDVZqqpXVvw/%2BhKl7ADlIkKyktmDdF6gfwM%3D"
             alt=""
           />
         </Link>

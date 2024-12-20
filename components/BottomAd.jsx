@@ -18,7 +18,7 @@ function BottomAd() {
           <button className="w-full text-xs font-semibold py-2 text-[#3483fa] bg-[#4189e626] rounded-lg" onClick={handleDestroy}  >Ahora no</button>
           <button className="w-full text-xs py-2 bg-[#ffd100] rounded-lg" onClick={handleDestroy} >
             <div className="flex justify-center items-center" >
-              <img className="w-7 mr-2" src="/images/logo.png" alt="" />
+              <img className="w-7 mr-2" src="/images/logo.webp" alt="" />
               <p>Bajar</p>
             </div>
           </button>
