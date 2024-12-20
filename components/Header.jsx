@@ -160,8 +160,8 @@ function Header() {
                                     href={item.href}
                                     className={
                                       item.selected
-                                        ? "-m-3 p-3 px-9 flex items-center text-sm text-blue-600 bg-[#ededed]"
-                                        : "-m-3 p-3 px-9 flex items-center text-sm text-gray-900 hover:bg-[#ededed]"
+                                        ? "-m-3 p-3 px-9 flex items-center text-sm text-blue-600 bg-[#ec0707]"
+                                        : "-m-3 p-3 px-9 flex items-center text-sm text-gray-900 hover:bg-[#ec0707]"
                                     }
                                   >
                                     <item.icon
@@ -243,7 +243,7 @@ function Header() {
               </p>
               <div className="hidden lg:flex flex-col lg:ml-1 lg:mt-1">
                 <p className="text-[8px] lg:text-[10px] ">Enviar a</p>
-                <p className="text-xs">Santa Fe, Santo Tomé</p>
+                <p className="text-xs">Montevideo Uruguay</p>
               </div>
             </div>
             <div id="Chevron" className="text-[#b8aa35] lg:hidden">
