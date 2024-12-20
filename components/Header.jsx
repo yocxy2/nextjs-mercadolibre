@@ -213,7 +213,7 @@ function Header() {
           </div>
         </header>
 
-        <div className="w-full h-9 bg-[#ffe600] lg:h-12 lg:py-0 px-2.5 py-3 shadow-sm max-w-[1200px] mx-auto">
+        <div className="w-full h-9 bg-[#ec0707] lg:h-12 lg:py-0 px-2.5 py-3 shadow-sm max-w-[1200px] mx-auto">
           <div className="flex justify-between ">
             <div className="flex cursor-pointer h-full justify-start items-center">
               <div id="Marker" className="text-[#ada23a]">
