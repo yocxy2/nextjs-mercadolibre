@@ -10,8 +10,7 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
 
-function cart() {
-  // eslint-disable-next-line react-hooks/rules-of-hooks
+function Cart() {
   const [categories] = useState({
     Carrito: [
       {
@@ -43,7 +42,7 @@ function cart() {
                 key={category}
                 className={({ selected }) =>
                   classNames(
-                    "w-screen relative py-2.5 text-sm leading-5 font-medium text-black bg-[#ffe600] ",
+                    "w-screen relative py-2.5 text-sm leading-5 font-medium text-black bg-[#8B0000] ",
                     "",
                     selected
                       ? "after:absolute after:w-full after:h-[2px] after:left-0 after:-bottom-[2px] after:bg-black"
@@ -71,7 +70,7 @@ function cart() {
                           <p>
                             {post.date}
                             <Link href="/" >
-                              <a className="text-blue-500">{post.link}</a>
+                              <a className="text-[#8B0000]">{post.link}</a>
                             </Link>
                           </p>
                         </li>
@@ -97,4 +96,5 @@ function cart() {
   );
 }
 
-export default cart;
+export default Cart;
+
