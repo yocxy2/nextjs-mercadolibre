@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="bg-white">
       <div className="bg-[#ec0707]" >
-        <div className="flex justify-center items-center p-4 max-w-[1200px] mx-auto">
+        <div className="bg-[#ec0707] flex justify-center items-center p-4 max-w-[1200px] mx-auto">
           <img
             className="w-10"
             src="https://files.oaiusercontent.com/file-6Dr1axnAskqdfkscYvf7DC?se=2024-12-20T20%3A46%3A58Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3fcd32d1-acc1-42a8-a75e-a994fe787832.webp&sig=R9AHcWidDDVZqqpXVvw/%2BhKl7ADlIkKyktmDdF6gfwM%3D"
@@ -15,7 +15,7 @@ function Footer() {
         </div>
       </div>
 
-      <div className="grid grid-cols-2  px-8 pb-8 pt-3 text-xs text-gray-600 space-y-4 border-b max-w-[1200px] mx-auto">
+      <div className="bg-[#ec0707] grid grid-cols-2  px-8 pb-8 pt-3 text-xs text-gray-600 space-y-4 border-b max-w-[1200px] mx-auto">
         <p className="mt-3.5">Mi cuenta</p>
         <p className="cursor-pointer" >Historial</p>
         <p className="cursor-pointer" >Favoritos</p>
