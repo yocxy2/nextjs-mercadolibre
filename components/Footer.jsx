@@ -4,7 +4,7 @@ import React from "react";
 function Footer() {
   return (
     <div className="bg-white">
-      <div className="bg-[#ffe600]" >
+      <div className="bg-[#ec0707]" >
         <div className="flex justify-center items-center p-4 max-w-[1200px] mx-auto">
           <img
             className="w-10"
