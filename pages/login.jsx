@@ -11,9 +11,9 @@ function login() {
   }
 
   return (
-    <div className="relative md:bg-[#ebebeb] h-screen ">
+    <div className="relative md:bg-[#ec0707] h-screen ">
       {/* Header */}
-      <header className="bg-[#ffe600] p-2 md:h-56">
+      <header className="bg-[#ec0707] p-2 md:h-56">
         <Link href="/">
           <img
             className="w-11"
@@ -85,7 +85,7 @@ function login() {
         <div className="py-4 flex flex-col justify-center items-center space-y-1 md:bg-white md:py-7">
           <p className="text-xs">Cómo cuidamos tu privacidad</p>
           <p className="text-xs text-gray-500">
-            Copyright © 1999-2022 MercadoLibre S.R.L.
+            Copyright © 20024 SEVENTA
           </p>
         </div>
       </div>
