@@ -84,7 +84,7 @@ function Header() {
             <Link href="/">
               <div className="w-24 lg:w-80 lg:mr-14 lg:-ml-1 lg:overflow-hidden">
                 <img
-                  src="https://nextjs-mercadolibre-g14xdlo9i-yocxy.vercel.app/favicon2.ico.webp"
+                  src="https://nextjs-mercadolibre.vercel.app/favicon2.ico.webp"
                   className="hidden lg:inline-block cursor-pointer"
                 />
                 <img
