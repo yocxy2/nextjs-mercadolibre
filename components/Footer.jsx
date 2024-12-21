@@ -48,7 +48,7 @@ function Footer() {
 
       <div className="px-8 pb-8 max-w-[1200px] mx-auto">
         <p className="text-xs text-gray-400 mb-2">
-          © 1999-2022 MercadoLibre S.R.L.
+           Copyright © 2024 SEVENTA
         </p>
         <p className="text-xs text-gray-400">
           Al navegar en este sitio aceptás las{" "}
